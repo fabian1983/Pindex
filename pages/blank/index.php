@@ -2,7 +2,7 @@
 <?php  
 
 $pagetitle = "Blank Template"; //- The Ultimate Multipurpose admin template
-$sidemenuoffline = "0"; //1 = true
+$sidemenuoffline = "1"; //1 = true
 
 
 include "pages/blank/header.php"; ?>
