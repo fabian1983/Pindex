@@ -8,6 +8,21 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <meta name='description' content=''>
     <meta name='author' content=''>
+
+
+    <link rel='icon' type='image/png' sizes='16x16' href='../../assets/images/favicon.png'>
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://pindex.nl/?page=">
+    <meta property="og:site_name" content=" ">
+    <meta property="og:title" content=" ">
+	<meta property="og:image" content="http://fabian.pindex.nl/assets/images/printer.png">
+
+    <meta name="description" content="pindex.nl is a website designed by a team of goodwilling people">
+    <meta name="twitter:description" property="og:description" itemprop="description" content="Pindex.nl is a website for Php index, because they needed the drive to archieve it.">
+
+
+
+
     <!-- Favicon icon -->
     <link rel='icon' type='image/png' sizes='16x16' href='../../assets/images/favicon.png'>
     <title><?=$pagetitle?></title>
@@ -20,3 +35,5 @@
     <script src='https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js'></script>
 <![endif]-->
 </head>
+
+
